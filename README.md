@@ -3,4 +3,4 @@ Smart photovoltaic projects, with complete technical information, instructions a
 
 Project A: Preamble about solar, simple plug-and-play 200/300 Watt.
   1. Versione Inglese
-  2. Versione Italiana
+  2. [Versione Italiana](fotovoltaico-part-A-v2-it.pdf)
