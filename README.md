@@ -14,7 +14,7 @@ Part A: Preamble about solar, DIY plug-and-play 200/300 Watt.
 
 Part B: Usage strategies and DIY photovoltaic > 350 Watt.
   - Part B: Wp > 350 W, pdf [english version](fotovoltaico-part-A-v2-en.pdf) soon
-  - Part B: Wp > 350 W, pdf [versione Italiana](fotovoltaico-part-A-v2-it.pdf) preview
+  - Part B: Wp > 350 W, pdf [versione Italiana](fotovoltaico-part-B-v4-it.pdf) preview
 
 
 note: _There is a problem with viewing a pdf document within GitHub: the links don't work.
