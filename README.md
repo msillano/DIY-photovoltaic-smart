@@ -1,8 +1,13 @@
 # DIY-photovoltaic-smart
 
-It offers an overview of the state of the art and possible alternatives, useful not only for trying their hand at DIY but also for those who have to make choices and evaluate offers in the photovoltaic sector.
+This study offers an overview of the state of the art and possible alternatives, useful not only for trying their hand at DIY but also for those who have to make choices and evaluate offers in the photovoltaic sector.
 
-Smart photovoltaic projects, with complete technical information, instructions and results.
+Smart photovoltaic projects, with complete technical information, instructions and results:
+    • project A: module 300 Wp plug-and-play
+    • project B: module 800 / 1000 / 1200 Wp on grid
+    • project C: module 800Wp, with limit
+    • project D: adding storage to C (1200 Wh)
+    • project E: UPS hybrid inverter 6200W + storage, off-grid/grid tie.
 
 ![](https://github.com/msillano/DIY-photovoltaic-smart/blob/main/img/IMG_20220718_173058_865.jpg?raw=true)
 
