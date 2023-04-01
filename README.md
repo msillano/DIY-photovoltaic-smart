@@ -12,14 +12,14 @@ Smart photovoltaic projects, with complete technical information, instructions a
 
 ![](https://github.com/msillano/DIY-photovoltaic-smart/blob/main/img/IMG_20220718_173058_865.jpg?raw=true)
 
-Part A: Preamble about solar, DIY plug-and-play 200/300 Watt.
+Part A: **Preamble about solar, DIY plug-and-play 200/300 Watt**
   - Part A: Wp < 350 W, pdf [english version](fotovoltaico-part-A-v2-en.pdf)
   - Part A: Wp < 350 W, pdf [versione Italiana](fotovoltaico-part-A-v2-it.pdf)
 ---------------
   
 ![](https://github.com/msillano/DIY-photovoltaic-smart/blob/main/img/hybrid01.png?raw=true)
 
-Part B: Usage strategies and DIY photovoltaic > 350 Watt.
+Part B: **Usage strategies and DIY photovoltaic > 350 Watt**
   - Part B: Wp > 350 W, pdf [english version](fotovoltaico-part-B-v4-en.pdf) 
   - Part B: Wp > 350 W, pdf [versione Italiana](fotovoltaico-part-B-v4-it.pdf) 
 
