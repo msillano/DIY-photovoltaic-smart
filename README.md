@@ -9,6 +9,10 @@ Smart photovoltaic projects, with complete technical information, instructions a
    - project C: module 800Wp, with limit
    - project D: adding storage to C (1200 Wh)
    - project E: UPS/off-grid hybrid inverter 6200W + storage.
+   
+Why 'smart'?  All projects they are IOT compatible, therefore they can be controlled remotely and integrated into home automation projects immediately (using the [smartLife](https://play.google.com/store/apps/details?id=com.tuya.smartlife) APP) or via a universal IOT development environment (like [tuyaDAEMON](https://github.com/msillano/tuyaDAEMON)).
+
+---------------
 
 ![](https://github.com/msillano/DIY-photovoltaic-smart/blob/main/img/IMG_20220718_173058_865.jpg?raw=true)
 
